@@ -4,6 +4,8 @@
 ## ⚙️ Technologies & Tools
 ![Python](https://img.icons8.com/color/48/000000/python--v1.png)
 ![Lua](https://img.icons8.com/color/48/000000/lua-language.png)
+![Html](https://img.icons8.com/color/48/000000/html-5.png)
+![CSS](https://img.icons8.com/color/48/000000/css3.png)
 ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png)
 <img src="https://icon.icepanel.io/Technology/png-shadow-512/SQLite.png" alt="FastAPI" width="40" height="40">
 ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
