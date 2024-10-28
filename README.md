@@ -23,4 +23,4 @@
 
 ## 💬 Get in Touch
 - Discord: [.kazantsev](https://discord.com/users/539025449028681749)
-- Email [work@kazantsev.tech](mailto:work@kazantsev.tech)
+- Email: [work@kazantsev.tech](mailto:work@kazantsev.tech)
