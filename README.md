@@ -20,6 +20,7 @@
 
 ## 📃 Projects
 - 📝 Family Reborn: Mod for controlling the work of family deputies on RP servers in GTA SAMP.
+- 🤖 Harmony Bot: Discord Bot for server moderation with economy and many other features.
 
 ## 💬 Get in Touch
 - Discord: [.kazantsev](https://discord.com/users/539025449028681749)
